@@ -1,0 +1,107 @@
+{
+  "shufflenet_v2_x1_0": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "url": "https://download.pytorch.org/models/shufflenetv2_x1-5666bf0f80.pth",
+    "sha256": "5666bf0f80d1e7f8fb61f6a65742b9c27c37f3208c1f087cdcd7c1ec1aa8b848",
+    "extension": ".pth"
+  },
+  "mobilevitv2_100": {
+    "mean": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "std": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "url": "https://huggingface.co/timm/mobilevitv2_100.cvnets_in1k/resolve/8d5eb1ea9e84a61f28fce38ea79043e7d9a75a9c/model.safetensors",
+    "sha256": "103bf57c1001cb735f72ad4632c3ec1790005d9535f952a7823422cdb32d401e",
+    "extension": ".safetensors"
+  },
+  "resnet18": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "url": "https://download.pytorch.org/models/resnet18-f37072fd.pth",
+    "sha256": "f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec",
+    "extension": ".pth"
+  },
+  "edgenext_small": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "url": "https://huggingface.co/timm/edgenext_small.usi_in1k/resolve/81bd8f2ee56330bdf6a7a2e47e1b2b82eb34f978/model.safetensors",
+    "sha256": "14d824931ca7f09e631c90347253bbc7a925ad017a02d7b8bf6e13b872d8059b",
+    "extension": ".safetensors"
+  },
+  "convnext_tiny": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "url": "https://huggingface.co/timm/convnext_tiny.fb_in1k/resolve/b43a6303c9fcf176d2d707478a128c2c91e93528/model.safetensors",
+    "sha256": "08b9dc9c3a3a29421de7996761e176501896d1ae7fc3085cf56a643772329276",
+    "extension": ".safetensors"
+  },
+  "efficientnet_b0": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "url": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-weights/efficientnet_b0_ra-3dd342df.pth",
+    "sha256": "3dd342dfa1fee25ae65e7bbdf8998cad6e45d6e77e69d580f0bd14d3eeb0b3f3",
+    "extension": ".pth"
+  },
+  "mambaout_femto": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "url": "https://github.com/yuweihao/MambaOut/releases/download/model/mambaout_femto.pth",
+    "sha256": "36650c76b6448a5870811c4a8a03c20d011a57784a4814da65e907d19da0a06b",
+    "extension": ".pth"
+  }
+}
